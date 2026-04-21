@@ -42,4 +42,3 @@ if uploaded_file is not None:
             "not a CSV or renamed file."
         )
         st.exception(e)
-``
